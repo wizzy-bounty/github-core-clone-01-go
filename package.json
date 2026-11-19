@@ -1,0 +1,11 @@
+{
+    "description": "A GitHub-compatible git forge in Go (vendored static binary, launched by main.ts)",
+    "engines": {
+        "node": ">=22.18"
+    },
+    "license": "MIT",
+    "name": "anvil-go",
+    "private": true,
+    "type": "module",
+    "version": "1.0.0"
+}
